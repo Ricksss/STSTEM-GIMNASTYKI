@@ -1,0 +1,5 @@
+<meta>
+    <script src="Bieznia.lua" type="server" />
+    <script src="Bieznia_C.lua" type="client" />	
+    <file src="Santana.ttf" />	
+</meta>
