@@ -41,3 +41,4 @@ Czy można dowolnie przerabiać ten kod?
 Oczywiście że tak,jednak musisz działać z warunkiami zawartymi w licencji GPL.
 
 
+
