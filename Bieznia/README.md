@@ -12,7 +12,7 @@ Folder Zawiera
 - Spis Komend
 - Tworzenie Bieżni
 - Funkcje zaokrogląjącą
-- Interakcyjną bierznie
+- Interakcyjną biżznie
 - Funkcje Ukazująca przebyte kilometry
 - Funckje licząca kiolmetry
 
