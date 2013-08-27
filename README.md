@@ -28,15 +28,15 @@ Zachęcić do programowania.
 
 Często zadawane pytania.
 ================
-Czy mogę użyć całego kodu na potrzeby mojego serwera?
+### Czy mogę użyć całego kodu na potrzeby mojego serwera?
 
 Instalując ten kod godzisz się na dotrzymanie warunków licencji GPLv2 - polskie tłumaczenie można znaleźć tu: http://gnu.org.pl/text/licencja-gnu.html
 
-Czy mogę wykorszystać fragment kodu?
+### Czy mogę wykorszystać fragment kodu?
 
 Oczywiście,pod warunkiem że opublikujesz swój kod na licencji GPL
 
-Czy można dowolnie przerabiać ten kod?
+### Czy można dowolnie przerabiać ten kod?
 
 Oczywiście że tak,jednak musisz działać z warunkiami zawartymi w licencji GPL.
 
